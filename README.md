@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+Algorithm for detection of collision between two rectangles.
